@@ -3,7 +3,7 @@ title: Nuwan Jayawardene
 email: nsgaj12@gmail.com
 description: This is <strong>Ethereal</strong>, a free site template by AJ for <a href="https://html5up.net">HTML5 UP</a>. It’s fully responsive, built on HTML5 and CSS3, and released entirely for free under the Creative Commons license. Hope you dig it :)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: https://n-jay.gitlab.io # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
