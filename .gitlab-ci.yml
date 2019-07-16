@@ -25,4 +25,4 @@ pages:
     paths:
     - public
   only:
-  - v3.7.0
+  - master
