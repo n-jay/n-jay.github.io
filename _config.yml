@@ -1,16 +1,26 @@
 # Site settings
+# title: Nuwan Jayawardene
+# email: nsgaj12@gmail.com
+# description: This is <strong>Ethereal</strong>, a free site template by AJ for <a href="https://html5up.net">HTML5 UP</a>. It’s fully responsive, built on HTML5 and CSS3, and released entirely for free under the Creative Commons license. Hope you dig it :)
+# baseurl: "/website" # the subpath of your site, e.g. /blog
+# url: "https://n-jay.gitlab.io" # the base hostname & protocol for your site
+# author:
+# street_address: 1234 Somewhere Road
+# city: Nashville
+# state: TN
+# zip_code: 55555
+# country: United States of America
+# phone: (716) 555-5555
+
 title: Nuwan Jayawardene
-email: nsgaj12@gmail.com
-description: This is <strong>Ethereal</strong>, a free site template by AJ for <a href="https://html5up.net">HTML5 UP</a>. It’s fully responsive, built on HTML5 and CSS3, and released entirely for free under the Creative Commons license. Hope you dig it :)
-baseurl: /website # the subpath of your site, e.g. /blog
-url: https://n-jay.gitlab.io # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+description: Nuwan's personal website
+baseurl: "/website" # the subpath of your site, e.g. /blog
+remote_theme: pmarsceill/just-the-docs
+url: https://n-jay.gitlab.io # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: none
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+
 
 # Build settings
 markdown: kramdown
