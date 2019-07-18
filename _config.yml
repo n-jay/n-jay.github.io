@@ -14,7 +14,7 @@
 
 title: Nuwan Jayawardene
 description: Nuwan's personal website
-baseurl:  # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 remote_theme: pmarsceill/just-the-docs
 url: https://n-jay.gitlab.io # the base hostname & protocol for your site, e.g. http://example.com
 
