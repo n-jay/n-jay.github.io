@@ -73,13 +73,13 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of Moratuwa, Sri Lanka
-        time: 2024
-        details: |
-          Research-based Masters with a project on Precision Agriculture. 
-          Proposed fault tolerant routing protocol for adhoc Wireless Sensor Networks.
-          Undertook Fault Tolerance computing module for credit fulfillment.
+      # - degree: MSc in Computer Science
+      #   university: University of Moratuwa, Sri Lanka
+      #   time: 2024
+      #   details: |
+      #     Research-based Masters with a project on Precision Agriculture. 
+      #     Proposed fault tolerant routing protocol for adhoc Wireless Sensor Networks.
+      #     Undertook Fault Tolerance computing module for credit fulfillment.
       - degree: BSc in Computer Science
         university: University of Westminster, UK
         time: 2019
@@ -254,20 +254,20 @@ publications:
         authors: Lahiru Welagedara, Janani Harischandra, Nuwan Jayawardene
         conference: "2021 IEEE 12th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)"
 
-      - title: Advancing Color Perception- An IoT-driven Pedagogical System for Visually Impaired Children
-        link: "#"
-        authors: Prasandika Balage, Nuwan Jayawardene
-        conference: Preprint
+      # - title: Advancing Color Perception- An IoT-driven Pedagogical System for Visually Impaired Children
+      #   link: "#"
+      #   authors: Prasandika Balage, Nuwan Jayawardene
+      #   conference: Preprint
 
-      - title: Wireless Sensor Network Implementations in Precision Agriculture and associated Network Fault Management Frameworks- A survey
-        link: "#"
-        authors: Nuwan Jayawardene, Sulochana Sooriyaarachchi, Chandana Gamage
-        conference: Preprint
+      # - title: Wireless Sensor Network Implementations in Precision Agriculture and associated Network Fault Management Frameworks- A survey
+      #   link: "#"
+      #   authors: Nuwan Jayawardene, Sulochana Sooriyaarachchi, Chandana Gamage
+      #   conference: Preprint
 
-      - title: Chaos Engineering-Inspired Survivability Evaluation of Wireless Sensor Networks Using OMNET++
-        link: "#"
-        authors: Nuwan Jayawardene, Sulochana Sooriyaarachchi, Chandana Gamage
-        conference: Preprint
+      # - title: Chaos Engineering-Inspired Survivability Evaluation of Wireless Sensor Networks Using OMNET++
+      #   link: "#"
+      #   authors: Nuwan Jayawardene, Sulochana Sooriyaarachchi, Chandana Gamage
+      #   conference: Preprint
 
 
 # skills:
