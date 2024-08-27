@@ -73,13 +73,13 @@ career-profile:
 education:
     title: Education
     info:
-      # - degree: MSc in Computer Science
-      #   university: University of Moratuwa, Sri Lanka
-      #   time: 2024
-      #   details: |
-      #     Research-based Masters with a project on Precision Agriculture. 
-      #     Proposed fault tolerant routing protocol for adhoc Wireless Sensor Networks.
-      #     Undertook Fault Tolerance computing module for credit fulfillment.
+      - degree: MSc in Computer Science
+        university: University of Moratuwa, Sri Lanka
+        time: 2024
+        details: |
+          Research-based Masters related to a project on Wireless Sensor Networks (WSN). 
+          Proposed fault tolerant routing protocol for adhoc WSN.
+          Undertook Fault Tolerance Computing module for credit fulfillment.
       - degree: BSc in Computer Science
         university: University of Westminster, UK
         time: 2019
