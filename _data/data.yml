@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Nuwan Jayawardene
-    tagline: Software Engineer & Academic
+    tagline: Academic | Software Engineer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -70,6 +70,7 @@ career-profile:
       where he undertook a project on fault-tolerant routing protocols for ad-hoc Wireless Sensor Networks.
 
       Nuwan is an Apache Committer, advocate, and contributor to multiple FOSS projects.
+
 education:
     title: Education
     info:
@@ -86,9 +87,6 @@ education:
         details: |
           Specialized in the multi-media pathway with a final year research
           project-based on middleware and Internet of Things. 
-          Extra-curriculars involved:
-            - IEEE
-            - Rotaract Club
 
 experiences:
     title: Experiences
